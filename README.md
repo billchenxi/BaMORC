@@ -4,8 +4,9 @@
 
 # BaMORC: Bayesian Model Optimized Reference Correction
 
-Creator: Xi Chen
-Author: Xi Chen, Andrey Smelter, Hunter Moseley
+**Creator:** Xi Chen (Bill)
+
+**Author:** Xi Chen (Bill), Andrey Smelter, Hunter Moseley
 
 ## <img src="man/figures/logo.png" height="20%" width="20%" align="right" />
 The BaMORC package is designed to facilitate protein NMR research with an easy-to-use tool that detects and corrects 13C referencing errors before and after the protein resonance assignment step. 
